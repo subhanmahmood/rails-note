@@ -1,3 +1,23 @@
 // Place all the styles related to the Home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h1{
+  padding-bottom: 10px;
+
+}
+
+p{
+  padding: 0;
+
+}
+
+form label, form input{
+  display: block;
+  margin: 10px;
+}
+
+form input{
+  color: black;
+}
